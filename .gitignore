@@ -30,5 +30,3 @@ node_modules
 # Other
 .DS_Store
 .idea
-dist
-lib
